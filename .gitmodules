@@ -1,15 +1,20 @@
 [submodule "src/third-party/util-linux"]
 	path = src/third-party/util-linux
 	url = https://github.com/unosx/util-linux
+	branch = master
 [submodule "src/third-party/partclone-utils"]
 	path = src/third-party/partclone-utils
 	url = https://github.com/unosx/partclone-utils
+	branch = master
 [submodule "src/third-party/partclone-nbd"]
 	path = src/third-party/partclone-nbd
 	url = https://github.com/unosx/partclone-nbd
+	branch = master
 [submodule "src/third-party/debootstrap"]
 	path = src/third-party/debootstrap
 	url = https://salsa.debian.org/installer-team/debootstrap
+	branch = master
 [submodule "src/third-party/partclone-latest"]
 	path = src/third-party/partclone-latest
 	url = https://github.com/unosx/partclone
+	branch = master
